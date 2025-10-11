@@ -62,9 +62,3 @@ pip install pandas numpy matplotlib scikit-learn statsmodels
 - `previsao_final.py` → Geração de previsões iterativas
 - `main.py` → Script principal que orquestra treino, avaliação e previsão                 # Script principal
 
-
-## Descrição Objetiva
-
-Projeto em Python que prevê a inflação brasileira usando Random Forest. Treina com dados de 2000–2020, avalia previsões de 2021–2024 e gera projeções iterativas para 2025–2030, com gráficos e CSVs de comparação.
-Se quiser, posso também **criar uma versão ainda mais “profissional” com badges de execução, licenças e links diretos para instalação do Python**, pronta para GitHub. Quer que eu faça isso?
-
